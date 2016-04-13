@@ -1,0 +1,24 @@
+{
+  "name": "travis-chrome",
+  "version": "1.0.0",
+  "description": "Test",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristerkari/travis-chrome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristerkari/travis-chrome/issues"
+  },
+  "homepage": "https://github.com/kristerkari/travis-chrome#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^0.2.3",
+    "karma-jasmine": "^0.3.8"
+  }
+}
