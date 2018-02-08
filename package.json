@@ -16,9 +16,9 @@
   },
   "homepage": "https://github.com/kristerkari/travis-chrome#readme",
   "devDependencies": {
-    "jasmine-core": "^2.4.1",
-    "karma": "^0.13.22",
-    "karma-chrome-launcher": "^0.2.3",
-    "karma-jasmine": "^0.3.8"
+    "jasmine-core": "^2.8.0",
+    "karma": "^2.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.1"
   }
 }
